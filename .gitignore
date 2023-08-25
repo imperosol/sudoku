@@ -1,3 +1,6 @@
 /target
 # fichiers contenant une grille
 *.sdk
+
+*.vscode
+.idea
